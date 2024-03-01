@@ -1,3 +1,9 @@
+Custom Solana Serverless TypeScript API that allows you to perform simple on-chain actions on Devnet
+
+PS: You can use it on mainnet-beta as well, you just have to change the rpc on line 36 of route.ts
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
